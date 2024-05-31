@@ -1,0 +1,21 @@
+
+.qr-code-generator {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .qr-code-generator input {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .qr-code-generator button {
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  
+  .qr-code {
+    margin-top: 20px;
+  }
+  
